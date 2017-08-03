@@ -1,0 +1,17 @@
+body
+{
+	background: #D4A2A2;
+	font-family: sans-serif;
+}
+.zero
+{
+	text-decoration: underline;
+}
+.four
+{
+	background-color: #F16A21;
+	padding: 10px;
+	text-align: center;
+	vertical-align: middle;
+	width: 150px;
+}
